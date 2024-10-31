@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Will-Mich
-- 👀 I’m interested in AI development for high-level administrative, and technical business environments
+- 👀 I’m interested in LLM system development for high-level administrative, and technical business environments
 - 📫 Reach me at willgmich@gmail.com
 
 <!---
